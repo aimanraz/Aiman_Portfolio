@@ -2,5 +2,5 @@
 Data science portfolio
 
 
-## More data science to be added soon! 
+## More data science project to be added soon! 
 
