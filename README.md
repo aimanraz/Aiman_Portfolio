@@ -3,4 +3,4 @@ Data science portfolio
 
 
 ## More Data Science Porject Soon ! 
-*I'm just getting started ~
+* I'm just getting started ~
