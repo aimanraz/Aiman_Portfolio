@@ -3,7 +3,7 @@ A data science portfolio with some interesting data science project!
 
 # [Project 1: Application Tool To Predict Resistance Spot Welding Weld Quality](https://github.com/aimanraz/rsw-deep-learning.git) 
 * Developed an application tool that use deep learning to predict the weld quality of resistance spot welding. 
-* The data that has been used for this project based on [this research paper.](https://www.sciencedirect.com/science/article/pii/S0261306908001301)
+* The dataset that has been used for this project based on [this research paper.](https://www.sciencedirect.com/science/article/pii/S0261306908001301)
 * This application tool consist of 6 tab which each tab have their own puposes.
 * This project used only open-source software and packages.
 * This application tool can only be used on windows platform.
