@@ -1,4 +1,4 @@
-# My portfolio
+# My Data Science Portfolio
 A data science portfolio with some interesting data science project!
 
 # [Project 1: Application Tool To Predict Resistance Spot Welding Weld Quality](https://github.com/aimanraz/rsw-deep-learning.git) 
@@ -14,4 +14,4 @@ A data science portfolio with some interesting data science project!
 ![](https://github.com/aimanraz/rsw-deep-learning/blob/main/cm.JPG?raw=true)
 
 
-# [Project 2: NBA BASKETBALL TRENDS
+# Project 2: NBA BASKETBALL TRENDS (coming soon!)
