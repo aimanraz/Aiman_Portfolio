@@ -11,7 +11,7 @@ A data science portfolio with some interesting data science project!
 * This project used supervised learning mechanism.
 
 
-![](https://github.com/aimanraz/rsw-deep-learning/blob/main/cm.JPG?raw=true)
+![](https://github.com/aimanraz/rsw-deep-learning/blob/main/metrics.JPG?raw=true)
 
 
 # Project 2: (coming soon!)
