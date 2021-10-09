@@ -14,4 +14,4 @@ A data science portfolio with some interesting data science project!
 ![](https://github.com/aimanraz/rsw-deep-learning/blob/main/cm.JPG?raw=true)
 
 
-# Project 2: NBA BASKETBALL TRENDS (coming soon!)
+# Project 2: (coming soon!)
