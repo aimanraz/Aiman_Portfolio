@@ -14,4 +14,4 @@ A data science portfolio with some interesting data science project!
 ![](https://github.com/aimanraz/rsw-deep-learning/blob/main/metrics.JPG?raw=true)
 
 
-# Project 2: (coming soon!)
+# Project 2: Netflix Movies Analysis
