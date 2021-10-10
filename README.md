@@ -14,7 +14,7 @@ A data science portfolio with some interesting data science project!
 ![](https://github.com/aimanraz/rsw-deep-learning/blob/main/metrics.JPG?raw=true)
 
 
-# Netflix Movies Analysis
+# [Netflix Movies Analysis](https://github.com/aimanraz/netflix-analysis.git)
 A simple yet interesting data analysis project that analyze the Netflix movies data. The dataset adapted from the Kaggle. A lot of insight can be obtained after leveraging the dataset.
 
 ![](https://github.com/aimanraz/netflix-analysis/blob/main/Prev.JPG?raw=true)
