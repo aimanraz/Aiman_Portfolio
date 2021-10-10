@@ -1,5 +1,5 @@
 # My Data Science Portfolio
-A data science portfolio with some interesting data science project!
+A data science portfolio with some cool and interesting project!
 
 # [Application Tool To Predict Resistance Spot Welding Weld Quality](https://github.com/aimanraz/rsw-deep-learning.git) 
 * Developed an application tool that use deep learning to predict the weld quality of resistance spot welding. 
@@ -18,3 +18,7 @@ A data science portfolio with some interesting data science project!
 A simple yet interesting data analysis project that analyze the Netflix movies data. The dataset adapted from the Kaggle. A lot of insight can be obtained after leveraging the dataset.
 
 ![](https://github.com/aimanraz/netflix-analysis/blob/main/Prev.JPG?raw=true)
+
+
+# Machine Learning Project (coming soon!)
+Currently making my fundamentals about ML more robust. 
