@@ -21,7 +21,7 @@ A simple yet interesting data analysis project that analyze the Netflix movies d
 
 
 # More Analysis (coming soon!)
-Stay tune for more interactive analysis! 
+Stay tune for more interesting analysis! 
 
 
 # Machine Learning Project (coming soon!)
