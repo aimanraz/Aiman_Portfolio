@@ -20,5 +20,9 @@ A simple yet interesting data analysis project that analyze the Netflix movies d
 ![](https://github.com/aimanraz/netflix-analysis/blob/main/Prev.JPG?raw=true)
 
 
+# More cool analysis (coming soon!)
+Stay tune for more interactive analysis! 
+
+
 # Machine Learning Project (coming soon!)
 Currently making my fundamentals about ML more robust. 
