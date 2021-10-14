@@ -19,6 +19,10 @@ A simple yet interesting data analysis project that analyze the Netflix movies d
 
 ![](https://github.com/aimanraz/netflix-analysis/blob/main/Prev.JPG?raw=true)
 
+# [Diabetes Analysis](https://github.com/aimanraz/diabetes-analysis.git)
+A simple yet interesting data analysis project that analyze the Netflix movies data. The dataset adapted from the Kaggle. A lot of insight can be obtained after leveraging the dataset.
+
+![](https://github.com/aimanraz/diabetes-analysis/blob/main/histogram.JPG?raw=true)
 
 # More Analysis (coming soon!)
 Stay tune for more interesting analysis! 
