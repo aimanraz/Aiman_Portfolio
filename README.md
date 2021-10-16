@@ -29,9 +29,11 @@ Approximately 70% of data science problems involve classification and logistic r
 
 ![](https://github.com/aimanraz/br-ccr-logireg/blob/main/performance.JPG?raw=true)
 
-# More Analysis (coming soon!)
+# More Analysis with Python (coming soon!)
 Stay tune for more interesting analysis! 
 
+# Analysis with Power BI (coming soon!)
+Stay tune for more interesting dashboard! 
 
 # More Machine Learning Project (coming soon!)
 Currently making my fundamentals about ML more robust. 
