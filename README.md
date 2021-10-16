@@ -15,7 +15,7 @@ A data science portfolio with some cool and interesting project!
 
 
 # [Netflix Movies Analysis](https://github.com/aimanraz/netflix-analysis.git)
-A simple yet interesting data analysis project that analyze the Netflix movies data. The dataset adapted from the Kaggle. A lot of insight can be obtained after leveraging the dataset.
+A simple yet interesting data analysis project that analyze the Netflix movies data. The dataset adapted from the [Kaggle](https://www.kaggle.com/chasewillden/netflix-shows). A lot of insight can be obtained after leveraging the dataset.
 
 ![](https://github.com/aimanraz/netflix-analysis/blob/main/Prev.JPG?raw=true)
 
