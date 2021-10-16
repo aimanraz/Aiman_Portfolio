@@ -24,6 +24,9 @@ Data analysis project that analyze pima indian diabetes dataset. This dataset us
 
 ![](https://github.com/aimanraz/diabetes-analysis/blob/main/histogram.JPG?raw=true)
 
+# Breast Cancer Detection using Logistic Regression (coming soon!)
+
+
 # More Analysis (coming soon!)
 Stay tune for more interesting analysis! 
 
