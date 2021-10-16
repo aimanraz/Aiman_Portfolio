@@ -31,5 +31,5 @@ Data analysis project that analyze pima indian diabetes dataset. This dataset us
 Stay tune for more interesting analysis! 
 
 
-# Machine Learning Project (coming soon!)
+# More Machine Learning Project (coming soon!)
 Currently making my fundamentals about ML more robust. 
