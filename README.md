@@ -27,7 +27,7 @@ Data analysis project that analyze pima indian diabetes dataset. This dataset us
 # [Breast Cancer Detection using Logistic Regression](https://github.com/aimanraz/br-ccr-logireg.git)
 Approximately 70% of data science problems involve classification and logistic regression is a common solution for binary problems. Logistic regression has many applications in data science, but in the world of healthcare, it can really drive life-changing action.
 
-![](https://github.com/aimanraz/br-ccr-logireg/blob/main/performance.JPG?raw=true)
+![](https://github.com/aimanraz/br-ccr-logireg/raw/main/histogram.JPG?raw=true)
 
 # More Analysis with Python (coming soon!)
 Stay tune for more interesting analysis! 
