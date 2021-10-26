@@ -1,39 +1,13 @@
 # My Data Science Portfolio
-A data science portfolio with some cool and interesting project!
+Hello guys, welcome to my data science portfolio!. Im so exicited that you guys check it out. As you expected, I'm new in this field. Last few months i just started to learn about data science, smashing some MOOCS courses and yeah its love at first sight (maybe). Moreover, this will be a biggest transition in my career as my background is mechanical engineering. But still i can applied it to my domain. So yeah hope you enjoy and gain some knowledge from my portfolio. 
 
-# [Application Tool To Predict Resistance Spot Welding Weld Quality](https://github.com/aimanraz/rsw-deep-learning.git) 
-* Developed an application tool that use deep learning to predict the weld quality of resistance spot welding. 
-* The dataset that has been used for this project based on [this research paper.](https://www.sciencedirect.com/science/article/pii/S0261306908001301)
-* This application tool consist of 6 tab which each tab have their own puposes.
-* This project used only open-source software and packages.
-* This application tool can only be used on windows platform.
-* Some of the ANN model hyperparameter can be tuned, and some of it have been set to default.
-* This project used supervised learning mechanism.
+# [Data Analysis](https://github.com/aimanraz/data-analysis.git) 
+Consisting all of the personal project mainly focus on methods and framework to draw insight from the data.
 
+![](https://github.com/aimanraz/Aiman_Portfolio/blob/main/img/3d_demo.png)
 
-![](https://github.com/aimanraz/rsw-deep-learning/blob/main/metrics.JPG?raw=true)
+# [Machine Learning](https://github.com/aimanraz/machine-learning.git)
+This repo includes all the project or case studies focusing on to apply machine learning techniques based on real-life challenges.
 
 
-# [Netflix Movies Analysis](https://github.com/aimanraz/netflix-analysis.git)
-A simple yet interesting data analysis project that analyze the Netflix movies data. The dataset adapted from the [Kaggle](https://www.kaggle.com/chasewillden/netflix-shows). A lot of insight can be obtained after leveraging the dataset.
-
-![](https://github.com/aimanraz/netflix-analysis/blob/main/Prev.JPG?raw=true)
-
-# [Diabetes Analysis](https://github.com/aimanraz/diabetes-analysis.git)
-Data analysis project that analyze pima indian diabetes dataset. This dataset used for the project is from [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database).
-
-![](https://github.com/aimanraz/diabetes-analysis/blob/main/histogram.JPG?raw=true)
-
-# [Breast Cancer Detection using Logistic Regression](https://github.com/aimanraz/br-ccr-logireg.git)
-Approximately 70% of data science problems involve classification and logistic regression is a common solution for binary problems. Logistic regression has many applications in data science, but in the world of healthcare, it can really drive life-changing action.
-
-![](https://github.com/aimanraz/br-ccr-logireg/raw/main/histogram.JPG?raw=true)
-
-# More Analysis with Python (coming soon!)
-Stay tune for more interesting analysis! 
-
-# Analysis with Power BI (coming soon!)
-Stay tune for more interesting dashboard! 
-
-# More Machine Learning Project (coming soon!)
-Currently making my fundamentals about ML more robust. 
+![](https://github.com/aimanraz/Aiman_Portfolio/blob/main/img/ml_free_img.jpg)
