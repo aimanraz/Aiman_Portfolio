@@ -10,4 +10,4 @@ Consisting all of the personal project mainly focus on methods and framework to 
 This repo includes all the project or case studies focusing on to apply machine learning techniques based on real-life challenges.
 
 
-![](https://github.com/aimanraz/Aiman_Portfolio/blob/main/img/ml_free_img.jpg)
+![](https://github.com/aimanraz/Aiman_Portfolio/blob/main/img/ml_demo.JPG)
