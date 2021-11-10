@@ -11,5 +11,5 @@ This repo includes all the project or case studies focusing on to apply machine 
 
 ![](https://github.com/aimanraz/Aiman_Portfolio/blob/main/img/ml_demo.JPG)
 
-# Programming (python)
-Coming soon!
+# [Programming](https://github.com/aimanraz/Programming.git)
+Polishing core python programming with some cool and weird project (not really).
