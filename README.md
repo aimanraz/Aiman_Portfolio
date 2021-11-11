@@ -13,3 +13,5 @@ This repo includes all the project or case studies focusing on to apply machine 
 
 # [Programming](https://github.com/aimanraz/Programming.git)
 Polishing core python programming with some cool and weird project (not really).
+
+![](https://github.com/aimanraz/Aiman_Portfolio/blob/main/img/KCAUSO.JPG)
