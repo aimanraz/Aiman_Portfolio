@@ -1,5 +1,5 @@
 # My Data Science Portfolio
-Hello guys, welcome to my data science portfolio. I'm so excited that you guys check it out. As you expected, I'm new in this field. Last few months, I just started to learn about data science and smashing some MOOCs courses. So yeah hope you enjoyed and gained some pieces of knowledge from my portfolio.
+Hello guys, welcome to my data science portfolio. I'm so excited that you guys check it out. I'm passionate about data science, and many things can be learned and explored. Many resources that I used to learn about data science, such as Bootcamp, open-source(freecodecamp) and MOOCs. So yeah, I hope you enjoyed and gained some knowledge from my portfolio.
 
 # [Data Analysis](https://github.com/aimanraz/data-analysis.git) 
 Consisting all of the personal projects mainly focus on methods and framework to draw insight from the data.
